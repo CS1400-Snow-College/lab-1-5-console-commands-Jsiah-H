@@ -1,0 +1,15 @@
+C:\Users\josiah.holloway\Desktop\my-code-dir\lab-1-5-console-commands-Jsiah-H\obj\Debug\net8.0\lab-1-5-console-commands-Jsiah-H.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josiah.holloway\Desktop\my-code-dir\lab-1-5-console-commands-Jsiah-H\obj\Debug\net8.0\lab-1-5-console-commands-Jsiah-H.AssemblyInfoInputs.cache
+C:\Users\josiah.holloway\Desktop\my-code-dir\lab-1-5-console-commands-Jsiah-H\obj\Debug\net8.0\lab-1-5-console-commands-Jsiah-H.AssemblyInfo.cs
+C:\Users\josiah.holloway\Desktop\my-code-dir\lab-1-5-console-commands-Jsiah-H\obj\Debug\net8.0\lab-1-5-console-commands-Jsiah-H.csproj.CoreCompileInputs.cache
+C:\Users\josiah.holloway\Desktop\my-code-dir\lab-1-5-console-commands-Jsiah-H\obj\Debug\net8.0\lab-1-5-console-commands-Jsiah-H.sourcelink.json
+C:\Users\josiah.holloway\Desktop\my-code-dir\lab-1-5-console-commands-Jsiah-H\bin\Debug\net8.0\lab-1-5-console-commands-Jsiah-H.exe
+C:\Users\josiah.holloway\Desktop\my-code-dir\lab-1-5-console-commands-Jsiah-H\bin\Debug\net8.0\lab-1-5-console-commands-Jsiah-H.deps.json
+C:\Users\josiah.holloway\Desktop\my-code-dir\lab-1-5-console-commands-Jsiah-H\bin\Debug\net8.0\lab-1-5-console-commands-Jsiah-H.runtimeconfig.json
+C:\Users\josiah.holloway\Desktop\my-code-dir\lab-1-5-console-commands-Jsiah-H\bin\Debug\net8.0\lab-1-5-console-commands-Jsiah-H.dll
+C:\Users\josiah.holloway\Desktop\my-code-dir\lab-1-5-console-commands-Jsiah-H\bin\Debug\net8.0\lab-1-5-console-commands-Jsiah-H.pdb
+C:\Users\josiah.holloway\Desktop\my-code-dir\lab-1-5-console-commands-Jsiah-H\obj\Debug\net8.0\lab-1-5-console-commands-Jsiah-H.dll
+C:\Users\josiah.holloway\Desktop\my-code-dir\lab-1-5-console-commands-Jsiah-H\obj\Debug\net8.0\refint\lab-1-5-console-commands-Jsiah-H.dll
+C:\Users\josiah.holloway\Desktop\my-code-dir\lab-1-5-console-commands-Jsiah-H\obj\Debug\net8.0\lab-1-5-console-commands-Jsiah-H.pdb
+C:\Users\josiah.holloway\Desktop\my-code-dir\lab-1-5-console-commands-Jsiah-H\obj\Debug\net8.0\lab-1-5-console-commands-Jsiah-H.genruntimeconfig.cache
+C:\Users\josiah.holloway\Desktop\my-code-dir\lab-1-5-console-commands-Jsiah-H\obj\Debug\net8.0\ref\lab-1-5-console-commands-Jsiah-H.dll
