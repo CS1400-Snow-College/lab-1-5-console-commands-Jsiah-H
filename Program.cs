@@ -153,59 +153,11 @@ Console.SetCursorPosition(4,6);
 Console.WriteLine("    ");
 Console.SetCursorPosition(16,6);
 Console.WriteLine("        ");
-
-Console.BackgroundColor = ConsoleColor.DarkMagenta;
-Console.SetCursorPosition(12,3);
-Console.WriteLine("    ");
-Console.SetCursorPosition(18,3);
+Console.BackgroundColor = ConsoleColor.DarkYellow;  //complete
+Console.SetCursorPosition(10,12);
 Console.WriteLine("  ");
-
-Console.SetCursorPosition(6,4);
+Console.SetCursorPosition(16,12);
 Console.WriteLine("  ");
-Console.SetCursorPosition(10,4);
-Console.WriteLine("      ");
-Console.SetCursorPosition(18,4);
-Console.WriteLine("      ");
-
-Console.SetCursorPosition(6,5);
-Console.WriteLine("  ");
-Console.SetCursorPosition(12,5);
-Console.WriteLine("      ");
-Console.SetCursorPosition(20,5);
-Console.WriteLine("      ");
-
-Console.SetCursorPosition(8,6);
-Console.WriteLine("        ");
-
-Console.SetCursorPosition(8,7);
-Console.WriteLine("              ");
-
-Console.BackgroundColor = ConsoleColor.White;
-Console.SetCursorPosition(12,3);
-Console.WriteLine("    ");
-Console.SetCursorPosition(18,3);
-Console.WriteLine("  ");
-
-Console.SetCursorPosition(6,4);
-Console.WriteLine("  ");
-Console.SetCursorPosition(10,4);
-Console.WriteLine("      ");
-Console.SetCursorPosition(18,4);
-Console.WriteLine("      ");
-
-Console.SetCursorPosition(6,5);
-Console.WriteLine("  ");
-Console.SetCursorPosition(12,5);
-Console.WriteLine("      ");
-Console.SetCursorPosition(20,5);
-Console.WriteLine("      ");
-
-Console.SetCursorPosition(8,6);
-Console.WriteLine("        ");
-
-Console.SetCursorPosition(8,7);
-Console.WriteLine("              ");
-
 Console.BackgroundColor = ConsoleColor.DarkBlue;  //complete
 Console.SetCursorPosition(6,8);
 Console.WriteLine("    ");
@@ -230,8 +182,54 @@ Console.SetCursorPosition(6,11);
 Console.WriteLine("    ");
 Console.SetCursorPosition(18,11);
 Console.WriteLine("    ");
-Console.BackgroundColor = ConsoleColor.DarkYellow;  //complete
-Console.SetCursorPosition(10,12);
+Console.BackgroundColor = ConsoleColor.DarkGray;// complete
+Console.SetCursorPosition(4,15);
+Console.WriteLine("      ");
+Console.SetCursorPosition(16,15);
+Console.WriteLine("      ");
+
+Console.SetCursorPosition(2,16);
+Console.WriteLine("        ");
+Console.SetCursorPosition(16,16);
+Console.WriteLine("        ");
+
+Console.BackgroundColor = ConsoleColor.White;  //complete
+Console.SetCursorPosition(12,3);
+Console.WriteLine("    ");
+Console.SetCursorPosition(18,3);
 Console.WriteLine("  ");
-Console.SetCursorPosition(16,12);
+
+Console.SetCursorPosition(6,4);
 Console.WriteLine("  ");
+Console.SetCursorPosition(10,4);
+Console.WriteLine("      ");
+Console.SetCursorPosition(18,4);
+Console.WriteLine("      ");
+
+Console.SetCursorPosition(6,5);
+Console.WriteLine("  ");
+Console.SetCursorPosition(12,5);
+Console.WriteLine("      ");
+Console.SetCursorPosition(20,5);
+Console.WriteLine("      ");
+
+Console.SetCursorPosition(8,6);
+Console.WriteLine("        ");
+
+Console.SetCursorPosition(8,7);
+Console.WriteLine("              ");
+
+Console.SetCursorPosition(2,11);
+Console.WriteLine("    ");
+Console.SetCursorPosition(22,11);
+Console.WriteLine("    ");
+
+Console.SetCursorPosition(2,12);
+Console.WriteLine("      ");
+Console.SetCursorPosition(20,12);
+Console.WriteLine("      ");
+
+Console.SetCursorPosition(2,13);
+Console.WriteLine("    ");
+Console.SetCursorPosition(22,13);
+Console.WriteLine("    ");

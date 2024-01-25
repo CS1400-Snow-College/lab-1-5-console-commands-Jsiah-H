@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-1-5-console-commands-Jsiah-H")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56e3c08078968497627a21563e152cf612ceccb8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+753d3684a3799d6df3a407bdcac266d8c6aa63d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-1-5-console-commands-Jsiah-H")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-1-5-console-commands-Jsiah-H")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
